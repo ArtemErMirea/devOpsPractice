@@ -1,2 +1,2 @@
-# dewOpsPractice
+# devOpsPractice
 Практическая работа №2
